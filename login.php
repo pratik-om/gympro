@@ -4,10 +4,10 @@ session_start();
 /* ============================
    DATABASE CONFIGURATION
    ============================ */
-$host = "localhost";
-$dbname = "your_database_name";
-$dbuser = "your_database_user";
-$dbpass = "your_database_password";
+$host = "sql313.infinityfree.com";
+$dbname = "if0_42297052_store2";
+$dbuser = "if0_42297052";
+$dbpass = "1ck4ElaGPHVLb";
 
 /* ============================
    CONNECT DATABASE
